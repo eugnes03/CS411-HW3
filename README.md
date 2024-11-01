@@ -1,7 +1,7 @@
 # CS411-HW3
 
 
-Google Docstring Example: 
+Google Docstring Example:
 
 """Example Google style docstrings.
 
@@ -35,4 +35,7 @@ Todo:
 .. _Google Python Style Guide:
    http://google.github.io/styleguide/pyguide.html
 
+"""
+
+Little change, divvy up the work, and then combine it all together.
 """
